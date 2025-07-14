@@ -7,6 +7,6 @@ next: false
 
 # Contact
 
-opnesourcepj@gmail.com
+opensourcepj@gmail.com
 
 
