@@ -13,6 +13,7 @@ hero:
 features:
   - title: ChooseChart
     details: Financial trading game app
+    link: https://choosechart.github.io
     icon:
       src: ./choosechart/image.png    
   - title: Meditation Metrics
