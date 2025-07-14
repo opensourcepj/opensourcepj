@@ -4,7 +4,6 @@ layout: home
 
 hero:
   name: "fitzytec limited"
-  text: "projects"
   image:
     src: ./fitzytec/fitzytec.jpeg
     alt: fitzytec  
